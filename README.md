@@ -1,2 +1,2 @@
 # agora_frontend
-vue.js  agora web page.
+react.js  agora web page.
